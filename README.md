@@ -1,4 +1,4 @@
-# Desafio Dio Lab - Criação de um playground através do XCode
+# Desafio Dio Lab Swift - Criação de um playground através do XCode
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
